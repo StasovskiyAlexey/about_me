@@ -15,12 +15,12 @@ I professionally develop scalable web applications: from conceptual prototypes t
 ### 🧠 Leetcode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/StasovskiyAlexey?theme=dark&font=Roboto&ext=contest)
 
-![Leetcode Link](https://leetcode.com/u/StasovskiyAlexey/)
+[Leetcode Link](https://leetcode.com/u/StasovskiyAlexey/)
 
 ### ⚙️ Codewars
 ![Codewars_Stats](https://github.r2v.ch/codewars?user=rage__1&stroke=%23BB432C)
 
-![Codewars Link](https://www.codewars.com/users/rage__1)
+[Codewars Link](https://www.codewars.com/users/rage__1)
 
 ---
 
